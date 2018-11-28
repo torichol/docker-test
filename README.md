@@ -93,7 +93,7 @@ by torichol
 
 
 
-*HTML⇒md変換テスト
+#HTML⇒md変換テスト
    PostgreSQL pgbash    
 
 function googleTranslateElementInit() { new google.translate.TranslateElement({pageLanguage: 'ja', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google\_translate\_element'); }
